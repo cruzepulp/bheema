@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Installation"
+title:  "Qu'est-ce qu'un comportementaliste ?"
 categories: jekyll update
-img: lost-1.jpg
+img: img1_popiette.jpg
 categories: one
 ---
 
